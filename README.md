@@ -17,3 +17,5 @@ Note that our aim with the data set was to show the following
 * The worldwide gross per genre
 
 These visuals are well represented in the POWER-bi dashboard (file) attached in this repository.
+
+![Hollywood data- POWER-BI REPRESENTATION](https://user-images.githubusercontent.com/115784417/207865760-6b3f21e3-ad33-4437-98b6-5ad5e3225bfc.png)
