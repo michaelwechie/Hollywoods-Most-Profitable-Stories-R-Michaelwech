@@ -16,6 +16,25 @@ Note that our aim with the data set was to show the following
 * The profitability per studio
 * The worldwide gross per genre
 
+Findings
+
+After analysing the data various insights were derived from this analysis which could inform companies on what steps to make from a business perspective
+
+Finding 1;
+After Analysis it was discovered that during this period of time comedy movies were actually the hihgest grossing movies so basically from a business and economic point of view it would be a wise decision for studios to invest in very good comedy scripts as the trend shows that they can actually gross higher than their contemporaries
+
+Finding 2;
+We found that 2010 had the most number of movies produced compared to other years with the closest being 2008 which included all genres. Tying this to our first finding its interesting to know that out of the movies produced in 2010, comedy movies accounted for more than 60% of the total movies produced in 2010, this goes to explain the success the comedy genre had in 2010 overall.
+
+Finding 3;
+we also found after analysis that during this period fantasy movies had an overall highest rotten tomatoes ratings, which goes to explaing that the set of fantasy movies produced during this period were well made to attract such high ratings from rotten tomatoes.
+
+Finding 4;
+Analysis shows that in this period Independent studios made the most profit which means business wise they made more commercially attractive movies.
+
+Finding 5;
+A dangerous method scored the highest during a fan survey to score the best movie of this period to place it above the rest of the other movies during the period
+
 These visuals are well represented in the POWER-bi dashboard (file) attached in this repository.
 
 ![Hollywood data- POWER-BI REPRESENTATION](https://user-images.githubusercontent.com/115784417/207865760-6b3f21e3-ad33-4437-98b6-5ad5e3225bfc.png)
