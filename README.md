@@ -36,5 +36,6 @@ Finding 5;
 A dangerous method scored the highest during a fan survey to score the best movie of this period to place it above the rest of the other movies during the period
 
 These visuals are well represented in the POWER-bi dashboard (file) attached in this repository.
+https://app.powerbi.com/groups/76489b59-ac24-45e9-9e3f-13a2bc08e94a/reports/a36584fb-8fcb-4f08-bb1e-f023b6157c38/ReportSection
 
 ![Hollywood data- POWER-BI REPRESENTATION](https://user-images.githubusercontent.com/115784417/207865760-6b3f21e3-ad33-4437-98b6-5ad5e3225bfc.png)
